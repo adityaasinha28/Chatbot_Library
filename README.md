@@ -1,10 +1,10 @@
-# Chatbot
-
 Task-Based Conversational Agent Using Seq2Seq and Retrieval
 =====
 
 Implementation
 ---
+
+[Slides for the same](https://drive.google.com/file/d/1CDX7I-xrA5S5Ws_1h3bC5IHsXL4g9IJ3/view)
 
 A chatbot based on recurrent neural networks (RNN). Encoder-decoder long short-term memory (LSTM) model has been used. The Encoder-Decoder LSTM is a recurrent neural network designed to address sequence-to-sequence problems. The chatbot has been built with Keras (TensorFlow backened).
 
@@ -45,6 +45,6 @@ The bot is currently trained on 14 topics from the ACM CS subjects which it is
 able to correctly predict.
 
 An example iteration of the chatbot. 
-![](Images/Chatbot_Example.png)
 
-[Slides](https://drive.google.com/file/d/1CDX7I-xrA5S5Ws_1h3bC5IHsXL4g9IJ3/view)
+
+![](Images/Chatbot_Example.png)
